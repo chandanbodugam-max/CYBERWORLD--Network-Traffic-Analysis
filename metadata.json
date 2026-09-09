@@ -1,0 +1,8 @@
+{
+  "name": "Network Attack Forecasting World Model",
+  "description": "AI-based Network Attack Forecasting from Network Traffic Data using a World Model sequence engine, MITRE ATT&CK mapping, and K-step rollout simulation for SIH (Problem ID: 26153, NTRO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
